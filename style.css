@@ -47,6 +47,8 @@ body {
   border: none;
   outline: none;
   font-size: 2rem;
+  padding: 1rem;
+  border-radius: 2rem;
 }
 .plusWrapper,
 .eraseWrapper {
@@ -79,7 +81,7 @@ body {
   align-self: flex-start;
   display: flex;
 }
-.colors div {
+.color {
   width: 2rem;
   height: 2rem;
   border-radius: 50%;
@@ -87,36 +89,15 @@ body {
   margin-right: 1rem;
   cursor: pointer;
 }
-.whiteSpan {
-    background-color: #fff;
-}
-.orangeSpan {
-    background-color: orange;
-}
-.yellowSpan {
-    background-color: yellow;
-}
-.lightGreenSpan {
-    background-color: lightgreen;
-}
-.darkGreenSpan {
-    background-color: green;
-}
-.lightBlueSpan {
-    background-color: lightblue;
-}
-.darkBlueSpan {
-    background-color: rgb(23, 127, 246);
-}
-.purpleSpan {
-    background-color: purple;
-}
-.pinkSpan {
-    background-color: pink;
-}
-.redSpan {
-    background-color: rgb(252, 36, 36);
-}
+
+
+
+
+
+
+
+
+
 .notesWrapper {
     width: 100%;
     margin-top: 2rem;
