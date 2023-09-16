@@ -7,6 +7,6 @@ It's a daily note-taking application with different colors, also doubling as a t
 I've developed this project using HTML, CSS, and JavaScript.
 
 I would be delighted if you find this project engaging and consider giving it a star.
-Live Preview: https://salehmb1999.github.io/noteApp/
+Live Preview: https://salehmb1999.github.io/ColorNote/
 <br>
 Thank you!
